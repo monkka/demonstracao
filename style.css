@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+.line{
+    width: 120px;
+    height: 8px;
+    background-color: black;
+    margin: 10px auto;
+    margin-bottom: 30px;
+}
+
+iframe{
+    max-width: 100%;
+}
+
+#games{
+    background-color: rgb(255, 250, 243);
+}
+
+#apps{
+    background-color: rgb(235, 244, 241);
+}
+
+#chatbot{
+    background-color: rgb(244, 233, 254);
+}
+.carousel-inner{
+    width: 300px;
+    height: 300px;
+    margin-left: 35%
+}
